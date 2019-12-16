@@ -7,8 +7,8 @@ Il prototipo è ottimizzato per iOS
 
 ## Dev mode:
 * `npm install`
-* 'npm run start:dev'
+* `npm run start:dev`
 
 ## Production mode:
-* 'npm run build'
-* 'ionic build'
+* `npm run build`
+* `ionic build`
